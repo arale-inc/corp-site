@@ -9,6 +9,9 @@
 	"settings": {
 		"editor.formatOnSave": false,
 		"eslint.format.enable": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true
+		}
 	},
 	
 	// Add the IDs of extensions you want installed when the container is created.
