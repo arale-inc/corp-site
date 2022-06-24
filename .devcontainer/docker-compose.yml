@@ -1,0 +1,15 @@
+version: "3"
+services:
+  frontend:
+    build:
+      context: ./ 
+      dockerfile: Dockerfile
+    volumes:
+    - ../:/workspace/:cached
+    environment:
+      TZ: "Asia/Tokyo"
+    command: sleep infinity
+    working_dir: /workspace
+    user: "vscode:vscode"
+    # cpus: 1
+    # mem_limit: 1g
