@@ -1,0 +1,16 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-dc6717da.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "css": [
+      "entry.270d1635.css"
+    ],
+    "assets": [
+      "materialdesignicons-webfont.55c35c20.eot",
+      "materialdesignicons-webfont.12845dec.woff2",
+      "materialdesignicons-webfont.d87b64d8.woff",
+      "materialdesignicons-webfont.5e9b23f9.ttf"
+    ]
+  }
+}
