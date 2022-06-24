@@ -7,7 +7,12 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0-rc.4"
+    "@mdi/font": "^6.7.96",
+    "@mdi/js": "^6.7.96",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.11",
+    "nuxt": "3.0.0-rc.4",
+    "sass": "^1.53.0",
+    "vuetify": "next"
   },
   "packageManager": "yarn@3.2.1"
 }
